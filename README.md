@@ -53,7 +53,8 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/kharniwal-harsh/Credit_Scoring_Model.git
+    https://github.com/hemanthmunna/credit-scoring-model/edit/main/README.md
+   
     ```
 
 2. Navigate to the project directory:
